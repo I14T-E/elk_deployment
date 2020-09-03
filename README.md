@@ -4,7 +4,7 @@ The files in this repository were used to configure the network depicted below.
 
 ![network diagram](/diagrams/network_diagram.png)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, select portions of the ansible files may be used to install specific pieces of it. Click here for the [Anisble Files](https://github.com/I14T-E/dvwa_deployment/tree/master/ansible "Ansible Files").
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, select portions of the ansible files may be used to install specific pieces of it. Click here for the [Anisble Files](https://github.com/I14T-E/elk_deployment/tree/master/ansible "Ansible Files").
 
 This document contains the following details:
 - Description of the Topology
