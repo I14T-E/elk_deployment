@@ -76,9 +76,9 @@ This ELK server is configured to monitor the following machines:
 
 
 The following beats have been installed on the web servers and allows us to collect information from each machine:
-- Filebeat: General system log files
-- Metricbeat: Statistics about the operating system and applications use
-- Auditbeat: Security log events
+- [Filebeat](https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-overview.html "Filebeat"): General system log files
+- [Metricbeat](https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-overview.html "Metricbeat"): Statistics about the operating system and applications use
+- [Auditbeat](https://www.elastic.co/guide/en/beats/auditbeat/current/auditbeat-overview.html "Auditbeat"): Security log events
 
 For more information about each Beat, click on the respective link below.
 - [Filebeat](https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-overview.html "Filebeat")
