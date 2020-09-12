@@ -80,12 +80,6 @@ The following beats have been installed on the web servers and allows us to coll
 - [Metricbeat](https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-overview.html "Metricbeat"): Statistics about the operating system and applications use
 - [Auditbeat](https://www.elastic.co/guide/en/beats/auditbeat/current/auditbeat-overview.html "Auditbeat"): Security log events
 
-For more information about each Beat, click on the respective link below.
-- [Filebeat](https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-overview.html "Filebeat")
-- [Metricbeat](https://www.elastic.co/guide/en/beats/metricbeat/current/metricbeat-overview.html "Metricbeat")
-- [Auditbeat](https://www.elastic.co/guide/en/beats/auditbeat/current/auditbeat-overview.html "Auditbeat")
-
-
 ### Using the Playbook
 In order to use the playbook(s), you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
 
