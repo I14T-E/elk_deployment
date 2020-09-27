@@ -87,7 +87,7 @@ SSH into the control node and follow the steps below:
 - Update the hosts file to include the local IP addresses under the proper group.
 - Run the playbook, and navigate to the public address of your ELK machine (http://Your-ELK-VM-External-IP:5601/app/kibana) to check that the installation worked as expected. If everything is set up properly, you should be greeted with the following home screen:
 
-	![kibana homes](/diagrams/kibana_home.png)
+	![kibana home](/diagrams/kibana_home.png)
 
 
 To make sure that logs are being received by the ELK server, follow these simple steps:
@@ -97,7 +97,8 @@ To make sure that logs are being received by the ELK server, follow these simple
 
 If all is set up properly, you should see the following message:
 
-	![filebeat logs](/diagrams/filebeat_logs_received.png)
+	![filebeat logs received](/diagrams/filebeat_logs_received.png)]
+
 
 Congratulations, your ELK deployment is complete!
 
