@@ -95,9 +95,12 @@ To make sure that logs are being received by the ELK server, follow these simple
 - Select __*System logs*__
 - At the bottom of the page, click on __*Check data*__
 
+
 If all is set up properly, you should see the following message:
 
-	![filebeat log status](https://github.com/I14T-E/elk_deployment/blob/master/diagrams/filebeat_logs_received.png)
+
+	![filebeat log status](/diagrams/filebeat_logs_received.png)
+
 
 Congratulations, your ELK deployment is complete!
 
