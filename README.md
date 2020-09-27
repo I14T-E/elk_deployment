@@ -99,7 +99,7 @@ To make sure that logs are being received by the ELK server, follow these simple
 If all is set up properly, you should see the following message:
 
 
-	![filebeat log status](/diagrams/filebeat_logs_received.png)
+![filebeat log status](/diagrams/filebeat_logs_received.png)
 
 
 Congratulations, your ELK deployment is complete!
