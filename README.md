@@ -89,12 +89,11 @@ SSH into the control node and follow the steps below:
 
 	![kibana homes](/diagrams/kibana_home.png)
 
-- Troubleshoot as necessary
 
 To make sure that logs are being received by the ELK server, follow these simple steps:
-- Click on the *Add log data* button in the center of the screen. 
-- Select *System logs*
-- At the bottom of the page, click on *Check data*
+- Click on the __*Add log data*__ button in the center of the screen. 
+- Select __*System logs*__
+- At the bottom of the page, click on __*Check data*__
 
 If all is set up properly, you should see the following message:
 
